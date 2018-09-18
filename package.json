@@ -1,0 +1,15 @@
+{
+  "name": "alex",
+  "version": "1.0.0",
+  "description": "a discord bot that can make your life easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "author": "Rhune Raymaekers",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
